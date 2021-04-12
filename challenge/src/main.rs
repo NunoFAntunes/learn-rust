@@ -1,10 +1,10 @@
 
 //mod print;
 //mod vars;
-modtypes;
+mod types;
 
 fn main() {
 //    print::run();
 //    vars::run();
-    vars::types();
+    types::run();
 }
